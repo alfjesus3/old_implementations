@@ -1,0 +1,9 @@
+.vscode
+files
+__pycache__/
+build
+*.swp
+*.pyc
+*.so
+tmp.py
+debug.txt
