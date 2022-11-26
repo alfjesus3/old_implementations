@@ -1,0 +1,6 @@
+
+
+## When constructed the Singly Linked List:
+### Issues faced:
+* When creating a pointer inside main, there is a temporary allocation on memory. The other solution is to use malloc but then it is not possible to distinguish between garbage and actual data. In this situation use global variables.
+
