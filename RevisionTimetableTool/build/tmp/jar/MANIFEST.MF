@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: google-api-services-calendar-v3-rev305-1.23.0.jar google-a
+ pi-client-1.23.0.jar google-oauth-client-jetty-1.23.0.jar google-oaut
+ h-client-java6-1.23.0.jar google-oauth-client-1.23.0.jar google-http-
+ client-jackson2-1.23.0.jar guava-jdk5-17.0.jar jetty-6.1.26.jar googl
+ e-http-client-1.23.0.jar jsr305-1.3.9.jar jackson-core-2.1.3.jar jett
+ y-util-6.1.26.jar servlet-api-2.5-20081211.jar httpclient-4.0.1.jar h
+ ttpcore-4.0.1.jar commons-logging-1.1.1.jar commons-codec-1.3.jar
+Main-Class: Main
+

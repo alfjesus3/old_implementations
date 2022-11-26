@@ -1,0 +1,32 @@
+
+\
+squid:S106’"9Replace this use of System.out or System.err by a logger.(õëÜºùÿÿÿÿ8Á˜Œ‘’.
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğï¶ıÿÿÿÿ8ã›¤’.
+osquid:S3457m"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒ»¾Å8Á˜Œ‘’.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘Êµ’.
+gsquid:S2583F"DChange this condition so that it does not always evaluate to "false"(Ñ‹İ¶ÿÿÿÿÿ8”Œ½ğ–.
+psquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘ªæ8Á˜Œ‘’.
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(­®ÖÅÿÿÿÿÿ8Á˜Œ‘’.
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ï¼ûî8Á˜Œ‘’.
+jsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ÂÁÍ¿8‘Êµ’.
+Wsquid:S1068"9Remove this unused "TOKENS_DIRECTORY_PATH" private field.(Åã»ã8éş¬’.
+ssquid:UselessImportCheck"CRemove this unused import 'java.security.GeneralSecurityException'.(À×öÏıÿÿÿÿ8°Â‘’.
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Òò»õ8Êõ«´’.
+V
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ƒ»¾Å8Á˜Œ‘’.
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ß¿¥’.
+V
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ãùÌ¢8Á˜Œ‘’.
+Fsquid:S1148q"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8œù‘’.
+V
+squid:S106–"9Replace this use of System.out or System.err by a logger.(’×­18Á˜Œ‘’.
+‚squid:S1488y"_Immediately return this expression instead of assigning it to the temporary variable "service".(ñş¦÷úÿÿÿÿ8Á˜Œ‘’.
+vsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËíÏ¹şÿÿÿÿ8Á˜Œ‘’.
+Wsquid:S1172„"3Remove this unused method parameter "CalendarName".(ËíÏ¹şÿÿÿÿ8í½¨´’.
+8squid:S1220""Move this file to a named package.8ÚÃ¨’.
+isquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Õªï8í½¨´’.
+osquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(®€ƒüÿÿÿÿ8›­ºÖ”.
+]squid:S1854À"9Remove this useless assignment to local variable "event".(°ë»Ìúÿÿÿÿ8›­ºÖ”.
